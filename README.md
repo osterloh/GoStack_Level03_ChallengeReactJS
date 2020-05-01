@@ -9,9 +9,8 @@
 </h4>
 
 <p align="center">
-  <a href="#tecnologias">Tecnologias</a>
-  <a href="#como_usar">Como Usar</a>
-  <a href="#informacoes">Informações</a>
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Como-Usar">Como Usar</a>
 </p>
 
 <p align="center">
